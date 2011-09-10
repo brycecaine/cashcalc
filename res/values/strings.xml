@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textViewBills">Bills</string>
+    <string name="textViewCoins">Coins</string>
+    <string name="textViewBillTotalLabel">Total Bills</string>
+    <string name="textViewBillTotal">0.00</string>
+    <string name="textViewCoinTotalLabel">Total Coins</string>
+    <string name="textViewCoinTotal">0.00</string>
+    <string name="textViewBillCoinTotalLabel">Total Bills and Coins</string>
+    <string name="textViewBillCoinTotal">0.00</string>
+    <string name="app_name">CashCalc</string>
+    <string name="clear">Clear</string>
+    <string name="exit">Exit</string>
+</resources>
